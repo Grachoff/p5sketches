@@ -1,0 +1,2 @@
+const CANVAS_SIZE = 800;
+const BOX_SIZE = CANVAS_SIZE*2/3;
